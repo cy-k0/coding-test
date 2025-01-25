@@ -12,7 +12,7 @@ if x in ["a", "h"]:
         answer = 4
     elif y in [1, 8]:
         answer = 2
-    elif y in [2, 7]:
+    elif y in [2, 7]: 
         answer = 3
 elif x in ["b", "g"]:
     if y in range(3, 7):

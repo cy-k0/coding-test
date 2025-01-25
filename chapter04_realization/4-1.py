@@ -24,4 +24,4 @@ for mv in move:
     
     x, y = a, b
 
-print(x, y)
+print(x, y) 

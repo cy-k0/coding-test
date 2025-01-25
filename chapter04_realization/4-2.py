@@ -12,4 +12,4 @@ for i in range(n+1):
             if "3" in str(i) + str(m) + str(s):
                 count += 1
 print(count)
-
+ 
