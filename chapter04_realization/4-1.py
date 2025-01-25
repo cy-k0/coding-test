@@ -9,8 +9,6 @@ n = int(input())
 x, y = 1, 1
 move = input().split()
 
-# print(type(mv))
-
 # L, R, U, D
 mv_str = ["L", "R", "U", "D"]
 mv_x = [0, 0, -1, 1]
