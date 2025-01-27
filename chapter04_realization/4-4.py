@@ -21,7 +21,6 @@ map_x, map_y = map(int, input().split())
 x, y, d = map(int, input().split())
 
 # 방향 정의 (북, 동, 남, 서)
-direction = [0, 1, 2, 3]
 dx = [-1, 0, 1, 0]
 dy = [0, 1, 0, -1]
 
