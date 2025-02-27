@@ -1,4 +1,4 @@
-# 찾고자 하는 문자열 인덱스 반환
+# 순차탐색 찾고자 하는 문자열 인덱스 반환
 
 
 def sequential_search(n, target, array):
